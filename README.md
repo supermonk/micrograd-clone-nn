@@ -1,6 +1,6 @@
 # Goal
 
-Sliced code bits relative to Andrej's [micrograd video](https://www.youtube.com/watch?v=VMj-3S1tku0)
+Sliced code bits relative to Andrej's [micrograd video](https://www.youtube.com/watch?v=VMj-3S1tku0) and [github](https://github.com/karpathy/micrograd/)
 
 ### Installation
 
